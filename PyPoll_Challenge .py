@@ -71,9 +71,9 @@ with open(file_to_save, "w") as txt_file:
     # Print the final vote count (to terminal)
     election_results = (
         f"/nElection Results/n"
-        f"---------/n"
+        f"---------\n"
         f"Total Votes: {total_votes:,}/n"
-        f"---------/n/np="
+        f"---------\n\np="
         f"County Votes:/n")
     print(election_results, end="")
 
