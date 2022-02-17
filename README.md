@@ -1,11 +1,15 @@
 # election-analysis
-  This week I was brought into asset Tom a Seth with a program using python and it was for an election audit in Colorado this codes main functions were as followed 
-•	count the total number votes from a large database from 3 different systems and counties,
-•	provide a breakdown of the votes and provide a percentage of the total number of votes in each     county  
+
+  This week I was brought into asset Tom a Seth with a program using python and it to assist with a audit of Colorado Board of Elections on a recent local congressional election.
+  
+•	calculate the total number votes from  databases 
+•	provide a breakdown of the candidates, votes per county as well as provide a percentage of the total number of votes in each county  
 •	tell which county had the largest number of votes 
 •	give a breakdown of the number of votes and the percentages eared by each candidate 
 •	and lastly which candidate won and the vote count and the percentages of the total votes 
-I will be using python 3.7.9 for this project 
+
+#Resources 
+I will be using election_results.csv as my database this will be where I pull the voting information form and i will be using python 3.7.9 for this project, as well as Visual Studio Code.
 
 After coding the whole audit the analysis showed the following results 
 •	the number of votes was 369,711
