@@ -6,7 +6,7 @@
 •	calculate the total number votes from  databases 
 •	provide a breakdown of the candidates, votes per county as well as provide a percentage of the total number of votes in each county  
 •	tell which county had the largest number of votes 
-•	give a breakdown of the number of votes and the percentages eared by each candidate 
+•	give a breakdown of the number of votes and the percentages earned by each candidate 
 •	and lastly which candidate won and the vote count and the percentages of the total votes 
 
 Resources 
