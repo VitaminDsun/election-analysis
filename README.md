@@ -20,7 +20,7 @@ After coding the whole audit the analysis showed the following results
 •	Raymon Anthony Doane: 3.1% (11,606)
 • The winner was Diana DeGette 
 
-This week using python to sort a large amount of date for an a election some things need for this project was python, as well as a interpreter I also worked with csv files and also had the results written on a txt file coding this was difficult at time because I am so very net to coding, and rand in to a lot of syntax errors and was not sure how to deal with them all over all the task was accomplish I still need to work on this more I think they will be pleased with the results and hope to use this code in the future to do other election audit with it we could add state or a different region in the variables and use this code for many other elections across the world 
+This week using python to sort a large amount of date for an a election some things need for this project was python, as well as a interpreter I also worked with csv files and also had the results written on a txt file coding this was difficult at time because I am so very new to coding, and rand in to a lot of syntax errors and was not sure how to deal with them all over all the task was accomplish I still need to work on this more I think they will be pleased with the results and hope to use this code in the future to do other election audit with it we could add state or a different region in the variables and use this code for many other elections across the world 
 
 [election_analysis.txt](https://github.com/VitaminDsun/election-analysis/files/8140448/election_analysis.txt)
 
