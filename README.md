@@ -24,4 +24,5 @@ This week using python to sort a large amount of date for an a election some thi
 
 [election_analysis.txt](https://github.com/VitaminDsun/election-analysis/files/8140448/election_analysis.txt)
 
+![Screen Shot 2022-02-17 at 12 20 28 AM](https://user-images.githubusercontent.com/93777016/155700921-3b53af15-8e3c-4cd1-92ff-69a6350dea0f.png)
 
