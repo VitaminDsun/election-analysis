@@ -1,8 +1,8 @@
 # election-analysis
 
-  This week I was brought into asiset Tom and Seth with a program using python and it to assist with a audit of Colorado Board of Elections on a recent local congressional election.
+  This week I was brought into asiset Tom, and Seth with a program using python and it to assist with a audit of Colorado Board of Elections on a recent local congressional election.
   
-  list of objetives 
+  list of goals 
 •	calculate the total number votes from  databases 
 •	provide a breakdown of the candidates, votes per county as well as provide a percentage of the total number of votes in each county  
 •	tell which county had the largest number of votes 
